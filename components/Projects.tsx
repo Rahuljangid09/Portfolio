@@ -24,7 +24,7 @@ const projects = [
     tech: ["Node.js", "TypeScript", "PostgreSQL", "Prisma"],
     github: "https://github.com/Rahuljangid09/DevSync",
     live: "https://devsync-q0xz.onrender.com",
-    image: "/devsync.png",
+    image: "/DevSync.png",
   },
   {
     title: "BookNest",
